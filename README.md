@@ -16,14 +16,6 @@
   </a>
 </div>
 
-###
-
-<div align="center">
-  <img src="https://count.getloli.com/@:arslan468?theme=minecraft&padding=4&offset=3&scale=0.7&align=center&pixelated=1&darkmode=auto"  />
-</div>
-
-###
-
 <h1 align="center"></h1>
 
 ###
